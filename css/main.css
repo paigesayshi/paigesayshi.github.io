@@ -11,12 +11,13 @@ body {
 }
 #nav li a {
     text-decoration: none;
-    padding: 3px;
+    padding: 5px;
     text-align: center;
     background: #8CA9DB;
-    font: 16pt tahoma;
+    font: 12pt tahoma;
     color: #ffffff;
     width: 120px;
+    display: inline-block;
 }
 #nav li a:hover {
     background: #4980D8;
