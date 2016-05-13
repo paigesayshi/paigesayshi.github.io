@@ -14,9 +14,9 @@ body {
     padding: 3px;
     text-align: center;
     background: #8CA9DB;
-    font: 16pt times;
+    font: 16pt tahoma;
     color: #ffffff;
-    opacity: 1.0;
+    width: 120px;
 }
 #nav li a:hover {
     background: #4980D8;
