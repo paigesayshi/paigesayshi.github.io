@@ -1,3 +1,24 @@
 body {
     background: url("http://i.imgur.com/QC3apXk.png");
 }
+#nav {
+    margin-left: 100px;
+    margin-top: 75px;
+}
+#nav li {
+    display: inline-block;
+    margin: 0 4px;
+}
+#nav li a {
+    text-decoration: none;
+    padding: 3px;
+    text-align: center;
+    background: #8CA9DB;
+    font: 16pt times;
+    color: #ffffff;
+    opacity: 1.0;
+}
+#nav li a:hover {
+    background: #4980D8;
+    transition: background .2s;
+}
