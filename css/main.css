@@ -23,3 +23,29 @@ body {
     background: #4980D8;
     transition: background .2s;
 }
+#nav li li {
+    display: block;
+    margin: 0;
+}
+#nav li li a {
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    background: #ffffff;
+    font: 10pt tahoma;
+    color: #4980D8;
+    width: 120px;
+    display: block;
+}
+#nav li li a:hover {
+    text-decoration: underline;
+}
+.drop {
+    height: 22px;
+    overflow: hidden;
+}
+.drop:hover {
+    height: 200px;
+    overflow: visible;
+    transition: height .5s;
+}
