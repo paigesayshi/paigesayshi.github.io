@@ -11,7 +11,6 @@ a {
 #nav ul, #nav li {
     margin: 0;
     padding: 0;
-    vertical-align: top;
 }
 #nav li {
     display: block;
