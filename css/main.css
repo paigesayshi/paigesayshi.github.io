@@ -43,7 +43,7 @@ a {
     text-decoration: none;
     padding: 5px;
     text-align: left;
-    background: #eaeaea;
+    background: #ffffff;
     font: 10pt tahoma;
     color: #4980D8;
     width: 100px;
@@ -86,4 +86,5 @@ a {
     background: #ffffff;
     font: 10pt verdana;
     color: #000000;
+    z-index: -1;
 }
