@@ -33,8 +33,6 @@ a {
 #nav li li {
     display: block;
     margin: 0;
-}
-#nav li li a {
     text-decoration: none;
     padding: 5px;
     text-align: center;
@@ -42,8 +40,10 @@ a {
     font: 10pt tahoma;
     color: #4980D8;
     width: 120px;
-    display: block;
-    margin: 0;
+}
+#nav li li a {
+    font: 10pt tahoma;
+    color: #4980D8;
 }
 #nav li li a:hover {
     text-decoration: underline;
