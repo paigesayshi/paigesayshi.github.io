@@ -53,7 +53,5 @@ a {
     overflow: hidden;
 }
 .drop:hover {
-    height: 200px;
     overflow: visible;
-    transition: height .5s;
 }
