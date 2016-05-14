@@ -47,6 +47,7 @@ a {
     font: 10pt tahoma;
     color: #4980D8;
     width: 100px;
+    border-right: 2px solid #4980D8;
 }
 #nav li li:hover {
     background: #ffffff;
