@@ -5,8 +5,8 @@ a {
     text-decoration: none;
 }
 #nav {
-    margin-left: 100px;
-    margin-top: 100px;
+    margin-left: 700px;
+    margin-top: 50px;
 }
 #nav ul, #nav li {
     margin: 0;
@@ -14,7 +14,7 @@ a {
     vertical-align: top;
 }
 #nav li {
-    display: inline-block;
+    display: block;
     margin: 0 4px 2px 4px;
     text-decoration: none;
     padding: 5px;
@@ -61,4 +61,7 @@ a {
 }
 .drop:hover {
     overflow: visible;
+}
+#head {
+    
 }
