@@ -6,7 +6,7 @@ a {
 }
 #nav {
     margin-left: 50px;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 #nav ul, #nav li {
     margin: 0;
@@ -73,5 +73,6 @@ a {
     font: 36pt georgia;
     color: #1C3577;
     letter-spacing: 0px;
+    word-spacing: 4px;
     font-weight: bold;
 }
