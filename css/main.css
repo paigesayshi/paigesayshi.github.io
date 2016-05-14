@@ -80,6 +80,7 @@ a {
 #main {
     top: 100px;
     left: 350px;
+    position: absolute;
     width: 600px;
     padding: 5px 5px 100px 5px;
     background: #ffffff;
