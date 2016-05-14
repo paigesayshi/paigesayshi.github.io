@@ -67,8 +67,9 @@ a {
     overflow: visible;
 }
 #head {
-    margin-top: 20px;
-    margin-left: 200px;
+    top: 20px;
+    left: 250px;
+    position: absolute;
     font: 24pt georgia;
     color: #1C3577;
     letter-spacing: 0px;
