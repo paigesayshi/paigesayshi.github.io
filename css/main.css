@@ -41,6 +41,9 @@ a {
     color: #4980D8;
     width: 120px;
 }
+#nav li li:hover {
+    background: #ffffff;
+}
 #nav li li a {
     font: 10pt tahoma;
     color: #4980D8;
