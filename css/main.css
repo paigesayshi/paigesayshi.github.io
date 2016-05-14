@@ -30,7 +30,7 @@ a {
     color: #ffffff;
 }
 #nav li ul {
-    margin: 7px 0 0 -3px;
+    margin: 7px 120px 0 0;
 }
 #nav li li {
     display: block;
@@ -55,10 +55,13 @@ a {
     background: #ffffff;
 }
 .drop {
+    width: 120px;
     height: 22px;
+    margin-right: 120px;
     overflow: hidden;
 }
 .drop:hover {
+    width: auto;
     height: auto;
     overflow: visible;
 }
