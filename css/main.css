@@ -8,8 +8,6 @@ body {
 #nav li {
     display: inline-block;
     margin: 0 4px;
-}
-#nav li a {
     text-decoration: none;
     padding: 5px;
     text-align: center;
@@ -17,9 +15,8 @@ body {
     font: 12pt tahoma;
     color: #ffffff;
     width: 120px;
-    display: inline-block;
 }
-#nav li a:hover {
+#nav lihover {
     background: #4980D8;
     transition: background .2s;
 }
@@ -39,6 +36,7 @@ body {
 }
 #nav li li a:hover {
     text-decoration: underline;
+    background: #ffffff;
 }
 .drop {
     height: 22px;
