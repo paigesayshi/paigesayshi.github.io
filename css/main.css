@@ -43,11 +43,10 @@ a {
     text-decoration: none;
     padding: 5px;
     text-align: left;
-    background: #ffffff;
+    background: #eaeaea;
     font: 10pt tahoma;
     color: #4980D8;
     width: 100px;
-    border-right: 2px solid #4980D8;
 }
 #nav li li:hover {
     background: #ffffff;
@@ -83,7 +82,7 @@ a {
     left: 270px;
     position: absolute;
     width: 600px;
-    padding: 5px 5px 100px 5px;
+    padding: 10px 10px 100px 10px;
     background: #ffffff;
     font: 10pt verdana;
     color: #000000;
