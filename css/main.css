@@ -5,7 +5,7 @@ a {
     text-decoration: none;
 }
 #nav {
-    margin-left: 700px;
+    margin-left: 50px;
     margin-top: 50px;
 }
 #nav ul, #nav li {
@@ -67,5 +67,10 @@ a {
     overflow: visible;
 }
 #head {
-    
+    margin-top: 20px;
+    margin-left: 200px;
+    font: 24pt georgia;
+    color: #1C3577;
+    letter-spacing: 0px;
+    font-weight: bold;
 }
