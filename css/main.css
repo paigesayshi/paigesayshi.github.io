@@ -60,6 +60,7 @@ a {
     overflow: hidden;
 }
 .drop:hover {
+    height: auto;
     overflow: visible;
 }
 #head {
