@@ -6,7 +6,7 @@ a {
 }
 #nav {
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 #nav ul, #nav li {
     margin: 0;
@@ -70,7 +70,7 @@ a {
     top: 20px;
     left: 250px;
     position: absolute;
-    font: 24pt georgia;
+    font: 36pt georgia;
     color: #1C3577;
     letter-spacing: 0px;
     font-weight: bold;
