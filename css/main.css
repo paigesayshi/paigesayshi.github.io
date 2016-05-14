@@ -41,11 +41,11 @@ a {
     margin: 0;
     text-decoration: none;
     padding: 5px;
-    text-align: center;
+    text-align: left;
     background: #ffffff;
     font: 10pt tahoma;
     color: #4980D8;
-    width: 120px;
+    width: 100px;
 }
 #nav li li:hover {
     background: #ffffff;
