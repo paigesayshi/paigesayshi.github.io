@@ -31,7 +31,7 @@ a {
     color: #ffffff;
 }
 #nav li ul {
-    margin: 7px 0 0 -3px;
+    margin: -22px 0 -120px 0;
 }
 #nav li li {
     display: block;
@@ -57,10 +57,10 @@ a {
 }
 .drop {
     height: 22px;
+    width: 120px;
     overflow: hidden;
 }
 .drop:hover {
-    height: auto;
     overflow: visible;
 }
 #head {
