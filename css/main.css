@@ -1,6 +1,9 @@
 body {
     background: url("http://i.imgur.com/QC3apXk.png");
 }
+a {
+    text-decoration: none;
+}
 #nav {
     margin-left: 100px;
     margin-top: 75px;
@@ -16,7 +19,7 @@ body {
     color: #ffffff;
     width: 120px;
 }
-#nav lihover {
+#nav li:hover {
     background: #4980D8;
     transition: background .2s;
 }
