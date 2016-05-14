@@ -1,71 +1,65 @@
-body {
-    background: url("http://i.imgur.com/QC3apXk.png");
-}
-a {
-    text-decoration: none;
-}
-#nav {
-    margin-left: 700px;
-    margin-top: 50px;
-}
-#nav ul, #nav li {
-    margin: 0;
-    padding: 0;
-    vertical-align: top;
-}
-#nav li {
-    display: block;
-    margin: 0 4px 2px 4px;
-    text-decoration: none;
-    padding: 5px;
-    text-align: center;
-    background: #8CA9DB;
-    width: 120px;
-}
-#nav li:hover {
-    background: #4980D8;
-    transition: background .2s;
-}
-#nav li a {
-    font: 12pt tahoma;
-    color: #ffffff;
-}
-#nav li ul {
-    margin: 7px 0 0 125px;
-}
-#nav li li {
-    display: block;
-    margin: 0;
-    text-decoration: none;
-    padding: 5px;
-    text-align: center;
-    background: #ffffff;
-    font: 10pt tahoma;
-    color: #4980D8;
-    width: 120px;
-}
-#nav li li:hover {
-    background: #ffffff;
-}
-#nav li li a {
-    font: 10pt tahoma;
-    color: #4980D8;
-}
-#nav li li a:hover {
-    text-decoration: underline;
-    background: #ffffff;
-}
-.drop {
-    width: 120px;
-    height: 22px;
-    margin-right: 120px;
-    overflow: hidden;
-}
-.drop:hover {
-    width: auto;
-    height: auto;
-    overflow: visible;
-}
-#head {
-    
-}
+ body {
+     background: url("http://i.imgur.com/QC3apXk.png");
+ }
+ a {
+     text-decoration: none;
+ }
+ #nav {
+     margin-left: 100px;
+     margin-top: 75px;
+ }
+ #nav ul, #nav li {
+     margin: 0;
+     padding: 0;
+     vertical-align: top;
+ }
+ #nav li {
+     display: inline-block;
+     margin: 0 4px 2px 4px;
+     text-decoration: none;
+     padding: 5px;
+     text-align: center;
+     background: #8CA9DB;
+     width: 120px;
+ }
+ #nav li:hover {
+     background: #4980D8;
+     transition: background .2s;
+ }
+ #nav li a {
+     font: 12pt tahoma;
+      color: #ffffff;
+  }
+  #nav li ul {
+ -    margin: 7px 0 0 -7px;
+ +    margin: 7px 0 0 -5px;
+  }
+  #nav li li {
+      display: block;
+     margin: 0;
+     text-decoration: none;
+     padding: 5px;
+     text-align: center;
+     background: #ffffff;
+     font: 10pt tahoma;
+     color: #4980D8;
+     width: 120px;
+ }
+ #nav li li:hover {
+     background: #ffffff;
+ }
+ #nav li li a {
+     font: 10pt tahoma;
+     color: #4980D8;
+ }
+ #nav li li a:hover {
+     text-decoration: underline;
+     background: #ffffff;
+ }
+ .drop {
+     height: 22px;
+     overflow: hidden;
+ }
+ .drop:hover {
+     overflow: visible;
+ }
