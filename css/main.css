@@ -66,7 +66,6 @@ a {
 }
 .drop:hover {
     overflow: visible;
-    transition: overflow 1s;
 }
 #head {
     top: 20px;
@@ -77,4 +76,11 @@ a {
     letter-spacing: 0px;
     word-spacing: 4px;
     font-weight: bold;
+}
+#main {
+    float: right;
+    padding: 5px 5px 100px 5px;
+    background: #ffffff;
+    font: 10pt verdana;
+    color: #000000;
 }
