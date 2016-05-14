@@ -47,6 +47,7 @@ a {
     font: 10pt tahoma;
     color: #4980D8;
     width: 100px;
+    z-index: 100;
 }
 #nav li li:hover {
     background: #ffffff;
@@ -79,7 +80,7 @@ a {
 }
 #main {
     top: 100px;
-    left: 270px;
+    left: 300px;
     position: absolute;
     width: 600px;
     padding: 10px 10px 100px 10px;
