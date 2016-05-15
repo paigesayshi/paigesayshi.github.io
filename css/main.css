@@ -55,8 +55,8 @@ a {
     color: #4980D8;
 }
 #nav li li:hover {
-    background: #8CA9DB;
-    transition: background .3s;
+    background: #eaeaea;
+    transition: background .5s;
 }
 .drop {
     height: 22px;
