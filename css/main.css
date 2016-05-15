@@ -59,6 +59,7 @@ a {
 }
 #nav li li:hover {
     background: #4980D8;
+    color: #8CA9DB;
 }
 .drop {
     height: 22px;
