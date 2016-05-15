@@ -48,6 +48,7 @@ a {
     color: #4980D8;
     width: 80px;
     z-index: 100;
+    border-right: 2px #4980D8 solid;
 }
 #nav li li:hover {
     background: #ffffff;
@@ -56,9 +57,8 @@ a {
     font: 10pt tahoma;
     color: #4980D8;
 }
-#nav li li a:hover {
-    text-decoration: underline;
-    background: #ffffff;
+#nav li li:hover {
+    background: #4980D8;
 }
 .drop {
     height: 22px;
