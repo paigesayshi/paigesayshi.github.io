@@ -50,16 +50,12 @@ a {
     z-index: 100;
     border-right: 2px #4980D8 solid;
 }
-#nav li li:hover {
-    background: #ffffff;
-}
 #nav li li a {
     font: 10pt tahoma;
     color: #4980D8;
 }
 #nav li li:hover {
-    background: #4980D8;
-    color: #8CA9DB;
+    background: #8CA9DB;
 }
 .drop {
     height: 22px;
