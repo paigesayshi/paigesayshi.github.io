@@ -56,7 +56,7 @@ a {
 }
 #nav li li:hover {
     background: #eaeaea;
-    transition: background .5s;
+    transition: background .2s;
 }
 .drop {
     height: 22px;
