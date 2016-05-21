@@ -95,4 +95,5 @@ a {
 #side {
     float: right;
     margin-top: -120px;
+    position: fixed;
 }
