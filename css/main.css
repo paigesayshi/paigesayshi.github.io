@@ -1,13 +1,15 @@
 body {
     background: url("http://i.imgur.com/QC3apXk.png");
+    background-attachment: fixed;
 }
 a {
     text-decoration: none;
 }
 #nav {
-    margin-left: 50px;
-    margin-top: 100px;
+    left: 50px;
+    top: 100px;
     z-index: 10;
+    position: fixed;
 }
 #nav ul, #nav li {
     margin: 0;
