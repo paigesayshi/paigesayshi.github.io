@@ -95,4 +95,5 @@ a {
 #side {
     float: right;
     margin: 0;
+    vertical-align: top;
 }
