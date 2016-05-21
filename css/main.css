@@ -92,3 +92,7 @@ a {
     border-radius: 10px;
     border: 2px #D0D3EF solid;
 }
+#side {
+    float: right;
+    margin: auto 0;
+}
