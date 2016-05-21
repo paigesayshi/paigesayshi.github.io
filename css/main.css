@@ -93,7 +93,7 @@ a {
     border: 2px #D0D3EF solid;
 }
 #side {
-    float: right;
-    margin-top: -120px;
+    right: 0;
+    top: 30px;
     position: fixed;
 }
